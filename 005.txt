@@ -152,8 +152,11 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0020.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0028.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0067.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0087.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0099.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0100.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0101.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0121.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0129.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0133.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/07/0134.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/08/0000b.tifz
@@ -178,7 +181,9 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/09/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/09/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/09/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/09/0010.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/09/0057.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/09/0073.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/09/0081.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0000b.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0001.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0002.tif
@@ -188,6 +193,8 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0010.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0047.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0070.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0073.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0078.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/10/0079.tif
@@ -216,6 +223,7 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/12/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/12/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/12/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/12/0010.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/12/0080.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/12/0081.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/13/0000b.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/13/0001.tif
@@ -256,6 +264,7 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/15/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/15/0033.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/15/0037.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/15/0069.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/15/0074.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/15/0081.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0000b.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0001.tif
@@ -267,6 +276,8 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0010.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0027.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0048.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0070.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0071.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0072.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/16/0080.tif
@@ -281,6 +292,7 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0010.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0042.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0052.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0056.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/17/0073.tif
@@ -316,6 +328,7 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0004.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0005.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0007.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0041.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0045.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/20/0081.tif
@@ -329,6 +342,7 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0005.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0008.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0043.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0072.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0073.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/21/0081.tif
@@ -370,6 +384,8 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/24/0005.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/24/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/24/0064.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/24/0065.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/24/0081.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/24/0082.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0000b.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0001.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0002.tif
@@ -380,6 +396,8 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0010.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0081.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/25/0082.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0000b.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0001.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0002.tif
@@ -390,6 +408,7 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0006.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0007.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0008.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0010.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0053.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0057.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0064.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_05/26/0065.tif

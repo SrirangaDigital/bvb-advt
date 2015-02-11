@@ -233,7 +233,6 @@ file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0018.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0022.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0029.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0040.tif
-file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0040.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0050.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0076.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/07/0078.tif
@@ -334,7 +333,6 @@ file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/09/0080.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/09/0082.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/10/0000b.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/10/0001.tif
-file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/10/0002.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/10/0002.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/10/0004.tif
 file:///home/sriranga/Desktop/Bhavan's%20tiff/Vol_13/10/0005.tif

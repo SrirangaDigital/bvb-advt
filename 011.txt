@@ -163,7 +163,6 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0066.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0072.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0074.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0076.tif
-file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0076.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0081.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0092.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_11/07/0094.tif

@@ -368,7 +368,6 @@ file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0007.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0008.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0010.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0022.tif
-file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0098.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0056.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0089.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_19/10/0090.tif

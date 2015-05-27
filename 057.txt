@@ -136,6 +136,30 @@
 /media/sys17/Bhavan's_Journal/Vol_57/16/0071.JPG
 /media/sys17/Bhavan's_Journal/Vol_57/16/0113.JPG
 /media/sys17/Bhavan's_Journal/Vol_57/16/0114.JPG
+<<<<<<< HEAD
+=======
+/media/sys17/Bhavan's_Journal/Vol_57/17/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/17/0113.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/17/0114.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/18/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/18/0113.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/18/0114.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/19/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/19/0113.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/19/0114.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/20/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/20/0113.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/20/0114.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/21/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/21/0113.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/21/0114.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/22/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/22/0113.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/22/0114.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/24/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/24/0129.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/24/0130.JPG
+>>>>>>> cb1229c47e267e49e47b81dd4ae6b1db7a291d3c
 
 
 

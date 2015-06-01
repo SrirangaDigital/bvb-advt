@@ -152,6 +152,12 @@
 /media/sys17/Bhavan's_Journal/Vol_60/10/0014.JPG
 /media/sys17/Bhavan's_Journal/Vol_60/10/0129.JPG
 /media/sys17/Bhavan's_Journal/Vol_60/10/0130.JPG
+/media/sys17/Bhavan's_Journal/Vol_60/11/0000b.JPG
+/media/sys17/Bhavan's_Journal/Vol_60/11/0004.JPG
+/media/sys17/Bhavan's_Journal/Vol_60/11/0022.JPG
+/media/sys17/Bhavan's_Journal/Vol_60/11/0097.JPG
+/media/sys17/Bhavan's_Journal/Vol_60/11/0113.JPG
+/media/sys17/Bhavan's_Journalr/Vol_60/11/0114.JPG
 /media/sys17/Bhavan's_Journal/Vol_60/13/0000b.JPG
 /media/sys17/Bhavan's_Journal/Vol_60/13/0129.JPG
 /media/sys17/Bhavan's_Journal/Vol_60/13/0130.JPG
@@ -171,3 +177,4 @@
 /media/sys17/Bhavan's_Journal/Vol_60/23/0113.JPG
 /media/sys17/Bhavan's_Journal/Vol_60/23/0114.JPG
 /media/sys17/Bhavan's_Journal/Vol_60/23/0115.JPG
+

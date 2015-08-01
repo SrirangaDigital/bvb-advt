@@ -319,6 +319,8 @@ Vol_43/12/0054.tif
 Vol_43/12/0058.tif
 Vol_43/12/0072.tif
 Vol_43/12/0076.tif
+Vol_43/12/0078.tif
+Vol_43/12/0080.tif
 Vol_43/12/0097.tif
 Vol_43/12/0098.tif
 Vol_43/13/0000b.tif
@@ -360,6 +362,7 @@ Vol_43/15/0008.tif
 Vol_43/15/0011.tif
 Vol_43/15/0012.tif
 Vol_43/15/0016.tif
+Vol_43/15/0018.tif
 Vol_43/15/0022.tif
 Vol_43/15/0024.tif
 Vol_43/15/0041.tif

@@ -109,6 +109,9 @@
 /media/sys17/Bhavan's_Journal/Vol_57/07/0078.JPG
 /media/sys17/Bhavan's_Journal/Vol_57/07/0113.JPG
 /media/sys17/Bhavan's_Journal/Vol_57/07/0114.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/08/0052.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/08/0113.JPG
+/media/sys17/Bhavan's_Journal/Vol_57/08/0114.JPG
 /media/sys17/Bhavan's_Journal/Vol_57/09/0000b.JPG
 /media/sys17/Bhavan's_Journal/Vol_57/09/0004.JPG
 /media/sys17/Bhavan's_Journal/Vol_57/09/0026.JPG

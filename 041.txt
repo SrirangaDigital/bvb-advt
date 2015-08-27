@@ -322,6 +322,17 @@ Vol_41/12/0076.tif
 Vol_41/12/0080.tif
 Vol_41/12/0097.tif
 Vol_41/12/0098.tif
+Vol_41/13/0004.tif
+Vol_41/13/0014.tif
+Vol_41/13/0016.tif
+Vol_41/13/0018.tif
+Vol_41/13/0020.tif
+Vol_41/13/0026.tif
+Vol_41/13/0030.tif
+Vol_41/13/0034.tif
+Vol_41/13/0038.tif
+Vol_41/13/0040.tif
+Vol_41/13/0046.tif
 Vol_41/14/0000b.tif
 Vol_41/14/0002.tif
 Vol_41/14/0004.tif
@@ -559,3 +570,4 @@ Vol_41/24/0082.tif
 Vol_41/24/0092.tif
 Vol_41/24/0094.tif
 Vol_41/24/0098.tif
+

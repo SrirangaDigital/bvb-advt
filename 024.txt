@@ -510,6 +510,12 @@ file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/24/0038.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/24/0044.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/24/0081.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/24/0082.tif
+file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/25/0004.tif
+file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/25/0034.tif
+file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/25/0042.tif
+file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/25/0048.tif
+file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/25/0068.tif
+file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/25/0070.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/26/0001.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/26/0002.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/26/0003.tif
@@ -519,6 +525,7 @@ file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/26/0052.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/26/0054.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/26/0081.tif
 file:///home/sriranga/Desktop/Bhavan's tiff/Vol_24/26/0082.tif
+
 
 
 

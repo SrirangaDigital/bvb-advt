@@ -1,72 +1,155 @@
-/media/sriranga/Bhavan's Journal/Vol-49/01/0260.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0261.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0262.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0263.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0264.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0267.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0268.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0273.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/01/0274.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/02/0020.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/02/0061.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/02/0069.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/02/0113.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/02/0114.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0000b.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0009.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0025.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0028.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0036.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0042.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0050.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0056.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0078.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0081.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0082.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0085.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0095.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0113.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/03/0114.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/04/0000b.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/04/0016.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/04/0020.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/04/0025.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/04/0032.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/04/0113.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/04/0114.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0000b.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0007.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0023.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0041.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0045.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0061.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0077.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0081.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0083.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0113.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/05/0114.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0000b.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0020.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0028.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0041.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0045.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0048.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0121.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/09/0122.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/10/0000b.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/10/0013.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/10/0028.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/10/0044.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/10/0113.JPG
-/media/sriranga/Bhavan's Journal/Vol-49/10/0114.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0012.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0019.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0025.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0038.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0048.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_49/14/0130.JPG
-
-
+049/01/0003.tif
+049/01/0005.tif
+049/01/0006.tif
+049/01/0009.tif
+049/01/0010.tif
+049/01/0013.tif
+049/01/0014.tif
+049/01/0015.tif
+049/01/0016.tif
+049/01/0017.tif
+049/01/0019.tif
+049/01/0020.tif
+049/01/0021.tif
+049/01/0022.tif
+049/01/0023.tif
+049/01/0026.tif
+049/01/0028.tif
+049/01/0109.tif
+049/01/0110.tif
+049/01/0112.tif
+049/01/0114.tif
+049/01/0115.tif
+049/01/0117.tif
+049/01/0128.tif
+049/01/0129.tif
+049/01/0130.tif
+049/01/0131.tif
+049/01/0132.tif
+049/01/0133.tif
+049/01/0134.tif
+049/01/0135.tif
+049/01/0136.tif
+049/01/0137.tif
+049/01/0173.tif
+049/01/0190.tif
+049/01/0191.tif
+049/01/0196.tif
+049/01/0203.tif
+049/01/0204.tif
+049/01/0205.tif
+049/01/0206.tif
+049/01/0207.tif
+049/01/0208.tif
+049/01/0209.tif
+049/01/0210.tif
+049/01/0211.tif
+049/01/0212.tif
+049/01/0213.tif
+049/01/0214.tif
+049/01/0216.tif
+049/01/0217.tif
+049/01/0218.tif
+049/01/0219.tif
+049/01/0220.tif
+049/01/0223.tif
+049/01/0224.tif
+049/01/0225.tif
+049/01/0226.tif
+049/01/0227.tif
+049/01/0228.tif
+049/01/0229.tif
+049/01/0231.tif
+049/01/0233.tif
+049/01/0235.tif
+049/01/0236.tif
+049/01/0237.tif
+049/01/0239.tif
+049/01/0240.tif
+049/01/0242.tif
+049/01/0243.tif
+049/01/0244.tif
+049/01/0245.tif
+049/01/0246.tif
+049/01/0248.tif
+049/01/0252.tif
+049/01/0255.tif
+049/01/0256.tif
+049/01/0258.tif
+049/01/0259.tif
+049/01/0260.tif
+049/01/0261.tif
+049/01/0262.tif
+049/01/0263.tif
+049/01/0264.tif
+049/01/0265.tif
+049/01/0266.tif
+049/01/0267.tif
+049/01/0268.tif
+049/01/0269.tif
+049/01/0270.tif
+049/01/0271.tif
+049/01/0272.tif
+049/01/0273.tif
+049/01/0274.tif
+049/02/0020.tif
+049/02/0061.tif
+049/02/0069.tif
+049/02/0113.tif
+049/02/0114.tif
+049/03/0009.tif
+049/03/0025.tif
+049/03/0028.tif
+049/03/0036.tif
+049/03/0042.tif
+049/03/0050.tif
+049/03/0056.tif
+049/03/0078.tif
+049/03/0081.tif
+049/03/0082.tif
+049/03/0085.tif
+049/03/0095.tif
+049/03/0113.tif
+049/03/0114.tif
+049/04/0016.tif
+049/04/0020.tif
+049/04/0025.tif
+049/04/0032.tif
+049/04/0113.tif
+049/04/0114.tif
+049/03/0000b.tif
+049/04/0000b.tif
+049/05/0007.tif
+049/05/0023.tif
+049/05/0041.tif
+049/05/0045.tif
+049/05/0061.tif
+049/05/0077.tif
+049/05/0081.tif
+049/05/0083.tif
+049/05/0113.tif
+049/05/0114.tif
+049/09/0020.tif
+049/09/0028.tif
+049/09/0041.tif
+049/09/0045.tif
+049/09/0048.tif
+049/09/0121.tif
+049/09/0122.tif
+049/10/0013.tif
+049/10/0028.tif
+049/10/0044.tif
+049/10/0113.tif
+049/10/0114.tif
+049/05/0000b.tif
+049/09/0000b.tif
+049/10/0000b.tif
+049/14/0012.tif
+049/14/0014.tif
+049/14/0019.tif
+049/14/0025.tif
+049/14/0038.tif
+049/14/0048.tif
+049/14/0129.tif
+049/14/0130.tif
+049/14/0000b.tif

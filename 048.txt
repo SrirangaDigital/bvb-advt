@@ -1,3 +1,4 @@
+
 048/11/0002.tif
 048/11/0007.tif
 048/11/0015.tif
@@ -172,6 +173,17 @@
 048/01/0239.tif
 048/01/0241.tif
 048/01/0242.tif
+
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0000b.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0002.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0003.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0055.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0058.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0080.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0094.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0113.JPG
+/media/sriranga/Bhavan's_Journal/Vol_48/02/0114.JPG
+
 048/06/0011.tif
 048/06/0013.tif
 048/06/0015.tif

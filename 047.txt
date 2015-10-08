@@ -9,9 +9,6 @@
 /media/sriranga/Bhavan's_Journal/Vol_47/01/0086.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/01/0090.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/01/0095.JPG
-/media/sriranga/Bhavan's_Journal/Vol_47/01/0086.JPG
-/media/sriranga/Bhavan's_Journal/Vol_47/01/0090.JPG
-/media/sriranga/Bhavan's_Journal/Vol_47/01/0095.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/01/0106.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/01/0112.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/01/0117.JPG
@@ -162,7 +159,6 @@
 /media/sriranga/Bhavan's_Journal/Vol_47/13/0108.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/13/0117.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/13/0118.JPG
-
 /media/sriranga/Bhavan's_Journal/Vol_47/14/0000b.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/14/0001.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/14/0004.JPG
@@ -232,5 +228,6 @@
 /media/sriranga/Bhavan's_Journal/Vol_47/23/0097.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/23/0107.JPG
 /media/sriranga/Bhavan's_Journal/Vol_47/23/0108.JPG
+
 
 

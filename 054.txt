@@ -1,3 +1,17 @@
+
+/home/sriranga/Desktop/bvb/From-PM/054/03/0008.djvu
+/home/sriranga/Desktop/bvb/From-PM/054/03/0009.djvu
+/home/sriranga/Desktop/bvb/From-PM/054/03/0032.djvu
+/home/sriranga/Desktop/bvb/From-PM/054/03/0048.djvu
+/home/sriranga/Desktop/bvb/From-PM/054/03/0056.djvu
+
+/home/sriranga/Desktop/bvb/From-PM/054/12/0012.djvu
+/home/sriranga/Desktop/bvb/From-PM/054/12/0032.djvu
+
+/home/sriranga/Desktop/bvb/From-PM/054/14/0026.djvu
+/home/sriranga/Desktop/bvb/From-PM/054/14/0044.djvu
+/home/sriranga/Desktop/bvb/From-PM/054/14/0070.djvu
+
 /media/sys17/Bhavan's_Journal/Vol_54/01/0000b.JPG
 /media/sys17/Bhavan's_Journal/Vol_54/01/0008.JPG
 /media/sys17/Bhavan's_Journal/Vol_54/01/0009.JPG

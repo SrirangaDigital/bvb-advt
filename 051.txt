@@ -1,196 +1,235 @@
-/home/sriranga/Desktop/bvb/From-PM/051/03/0005.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/03/0008.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/03/0011.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/03/0029.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/03/0040.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/03/0046.djvu
-
-/home/sriranga/Desktop/bvb/From-PM/051/04/0048.djvu
-
-/home/sriranga/Desktop/bvb/From-PM/051/05/0005.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/05/0008.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/05/0012.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/05/0016.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/05/0027.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/05/0080.djvu
-
-/home/sriranga/Desktop/bvb/From-PM/051/06/0010.djvu
-
-/home/sriranga/Desktop/bvb/From-PM/051/08/0032.djvu
-/home/sriranga/Desktop/bvb/From-PM/051/08/0106.djvu
-
-/media/sriranga/Bhavan's Journal/Vol-51/01/0000b.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0006.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0009.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0010.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0026.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0028.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0037.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0038.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0040.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0044.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0046.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0048.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0052.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0054.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0058.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0061.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0064.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0070.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0072.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0080.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0084.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0088.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0090.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0092.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0096.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0102.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0106.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0110.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0112.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0113.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0116.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0120.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0126.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0132.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0134.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0136.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0138.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0142.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0144.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0147.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0148.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0154.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0158.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0160.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0167.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0168.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0172.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0175.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0176.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0178.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0182.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0190.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0196.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0198.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0200.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0203.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0204.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0206.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0210.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0212.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0216.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0218.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0220.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0222.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0225.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/01/0226.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/02/0000b.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/02/0030.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/02/0129.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/02/0145.JPG
-/media/sriranga/Bhavan's Journal/Vol-51/02/0146.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/11/0007.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/11/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/11/0032.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/11/0045.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/11/0056.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/11/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/11/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/12/0010.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/12/0145.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/12/0146.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0007.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0022.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0028.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0046.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0051.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0066.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/13/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/14/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/14/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/14/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/14/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/14/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0010.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0022.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0097.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0103.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/15/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/16/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/16/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/16/0010.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/16/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/16/0113.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/16/0114.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0007.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0030.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0048.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0052.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0078.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/17/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/18/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/18/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/18/0012.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/18/0018.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/18/0089.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/18/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/18/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/19/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/19/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/19/0010.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/19/0013.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/19/0042.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/19/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/19/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/20/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/20/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/20/0113.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/20/0114.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0024.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0056.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0098.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0113.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/21/0114.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/22/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/22/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/22/0016.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/22/0129.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/22/0130.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/23/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/23/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/23/0010.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/23/0019.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/23/0110.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/23/0113.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/23/0114.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/24/0000b.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/24/0002.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/24/0014.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/24/0040.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/24/0113.JPG
-/media/sriranga/Bhavan's_Journal/Vol_51/24/0114.JPG
-
-
-
-
-
-
-
-
-
-
+051/01/0000b.JPG
+051/01/0006.JPG
+051/01/0009.JPG
+051/01/0010.JPG
+051/01/0026.JPG
+051/01/0028.JPG
+051/01/0037.JPG
+051/01/0038.JPG
+051/01/0040.JPG
+051/01/0044.JPG
+051/01/0046.JPG
+051/01/0048.JPG
+051/01/0052.JPG
+051/01/0054.JPG
+051/01/0058.JPG
+051/01/0061.JPG
+051/01/0064.JPG
+051/01/0070.JPG
+051/01/0072.JPG
+051/01/0080.JPG
+051/01/0084.JPG
+051/01/0088.JPG
+051/01/0090.JPG
+051/01/0092.JPG
+051/01/0096.JPG
+051/01/0102.JPG
+051/01/0106.JPG
+051/01/0110.JPG
+051/01/0112.JPG
+051/01/0113.JPG
+051/01/0116.JPG
+051/01/0120.JPG
+051/01/0126.JPG
+051/01/0132.JPG
+051/01/0134.JPG
+051/01/0136.JPG
+051/01/0138.JPG
+051/01/0142.JPG
+051/01/0144.JPG
+051/01/0147.JPG
+051/01/0148.JPG
+051/01/0154.JPG
+051/01/0158.JPG
+051/01/0160.JPG
+051/01/0167.JPG
+051/01/0168.JPG
+051/01/0172.JPG
+051/01/0175.JPG
+051/01/0176.JPG
+051/01/0178.JPG
+051/01/0182.JPG
+051/01/0190.JPG
+051/01/0196.JPG
+051/01/0198.JPG
+051/01/0200.JPG
+051/01/0203.JPG
+051/01/0204.JPG
+051/01/0206.JPG
+051/01/0210.JPG
+051/01/0212.JPG
+051/01/0216.JPG
+051/01/0218.JPG
+051/01/0220.JPG
+051/01/0222.JPG
+051/01/0225.JPG
+051/01/0226.JPG
+051/02/0000b.JPG
+051/02/0030.JPG
+051/02/0129.JPG
+051/02/0145.JPG
+051/02/0146.JPG
+051/03/0005.JPG
+051/03/0008.JPG
+051/03/0011.JPG
+051/03/0029.JPG
+051/03/0040.JPG
+051/03/0046.JPG
+051/04/0048.JPG
+051/05/0005.JPG
+051/05/0008.JPG
+051/05/0012.JPG
+051/05/0016.JPG
+051/05/0027.JPG
+051/05/0080.JPG
+051/06/0010.JPG
+051/07/0000b.JPG
+051/07/0006.JPG
+051/07/0009.JPG
+051/07/0012.JPG
+051/07/0015.JPG
+051/07/0027.JPG
+051/07/0028.JPG
+051/07/0033.JPG
+051/07/0034.JPG
+051/07/0041.JPG
+051/07/0064.JPG
+051/07/0067.JPG
+051/07/0072.JPG
+051/07/0082.JPG
+051/07/0084.JPG
+051/07/0088.JPG
+051/07/0090.JPG
+051/07/0096.JPG
+051/07/0099.JPG
+051/07/0100.JPG
+051/07/0102.JPG
+051/07/0104.JPG
+051/07/0110.JPG
+051/07/0112.JPG
+051/07/0114.JPG
+051/07/0120.JPG
+051/07/0122.JPG
+051/07/0124.JPG
+051/07/0130.JPG
+051/07/0132.JPG
+051/07/0134.JPG
+051/07/0138.JPG
+051/07/0140.JPG
+051/07/0142.JPG
+051/07/0148.JPG
+051/07/0150.JPG
+051/07/0154.JPG
+051/07/0156.JPG
+051/07/0164.JPG
+051/07/0168.JPG
+051/07/0175.JPG
+051/07/0183.JPG
+051/07/0184.JPG
+051/07/0193.JPG
+051/08/0032.JPG
+051/08/0106.JPG
+051/09/0000b.JPG
+051/09/0007.JPG
+051/09/0014.JPG
+051/09/0018.JPG
+051/09/0026.JPG
+051/09/0035.JPG
+051/09/0040.JPG
+051/09/0113.JPG
+051/10/0000b.JPG
+051/10/0113.JPG
+051/11/0007.JPG
+051/11/0014.JPG
+051/11/0032.JPG
+051/11/0045.JPG
+051/11/0056.JPG
+051/11/0129.JPG
+051/11/0130.JPG
+051/12/0010.JPG
+051/12/0145.JPG
+051/12/0146.JPG
+051/13/0000b.JPG
+051/13/0007.JPG
+051/13/0014.JPG
+051/13/0022.JPG
+051/13/0028.JPG
+051/13/0046.JPG
+051/13/0051.JPG
+051/13/0066.JPG
+051/13/0129.JPG
+051/13/0130.JPG
+051/14/0000b.JPG
+051/14/0002.JPG
+051/14/0014.JPG
+051/14/0129.JPG
+051/14/0130.JPG
+051/15/0000b.JPG
+051/15/0002.JPG
+051/15/0010.JPG
+051/15/0014.JPG
+051/15/0022.JPG
+051/15/0097.JPG
+051/15/0103.JPG
+051/15/0129.JPG
+051/15/0130.JPG
+051/16/0000b.JPG
+051/16/0002.JPG
+051/16/0010.JPG
+051/16/0014.JPG
+051/16/0113.JPG
+051/16/0114.JPG
+051/17/0000b.JPG
+051/17/0002.JPG
+051/17/0007.JPG
+051/17/0014.JPG
+051/17/0030.JPG
+051/17/0048.JPG
+051/17/0052.JPG
+051/17/0078.JPG
+051/17/0129.JPG
+051/17/0130.JPG
+051/18/0000b.JPG
+051/18/0002.JPG
+051/18/0012.JPG
+051/18/0018.JPG
+051/18/0089.JPG
+051/18/0129.JPG
+051/18/0130.JPG
+051/19/0000b.JPG
+051/19/0002.JPG
+051/19/0010.JPG
+051/19/0013.JPG
+051/19/0042.JPG
+051/19/0129.JPG
+051/19/0130.JPG
+051/20/0000b.JPG
+051/20/0014.JPG
+051/20/0113.JPG
+051/20/0114.JPG
+051/21/0000b.JPG
+051/21/0002.JPG
+051/21/0014.JPG
+051/21/0024.JPG
+051/21/0056.JPG
+051/21/0098.JPG
+051/21/0113.JPG
+051/21/0114.JPG
+051/22/0000b.JPG
+051/22/0002.JPG
+051/22/0016.JPG
+051/22/0129.JPG
+051/22/0130.JPG
+051/23/0000b.JPG
+051/23/0002.JPG
+051/23/0010.JPG
+051/23/0019.JPG
+051/23/0110.JPG
+051/23/0113.JPG
+051/23/0114.JPG
+051/24/0000b.JPG
+051/24/0002.JPG
+051/24/0014.JPG
+051/24/0040.JPG
+051/24/0113.JPG
+051/24/0114.JPG

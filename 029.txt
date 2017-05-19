@@ -162,6 +162,8 @@ Vol_29/09/0010.tif
 Vol_29/09/0016.tif
 Vol_29/09/0042.tif
 Vol_29/09/0056.tif
+Vol_29/09/0062.tif
+Vol_29/09/0063.tif
 Vol_29/09/0081.tif
 Vol_29/09/0082.tif
 Vol_29/10/0000b.tif

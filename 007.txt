@@ -209,6 +209,7 @@ file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0061.tif
 file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0062.tif
 file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0072.tif
 file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0076.tif
+file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0078.tif
 file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0080.tif
 file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0082.tif
 file:///home/sriranga/Desktop/Untitled%20Folder/Vol_07/10/0087.tif

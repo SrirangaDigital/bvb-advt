@@ -1,3 +1,6 @@
+file:///home/sys17/Desktop/BJ-tiff/Vol_01/02/0008.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_01/08/0003.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_01/08/0004.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_01/13/0000b.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_01/13/0001.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_01/13/0002.tif

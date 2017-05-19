@@ -543,6 +543,11 @@
 /media/sys17/Bhavan's_Journal/Vol_38/17/0056.JPG
 /media/sys17/Bhavan's_Journal/Vol_38/17/0058.JPG
 /media/sys17/Bhavan's_Journal/Vol_38/17/0064.JPG
+/media/sys17/Bhavan's_Journal/Vol_38/17/0066.JPG
+/media/sys17/Bhavan's_Journal/Vol_38/17/0068.JPG
+/media/sys17/Bhavan's_Journal/Vol_38/17/0070.JPG
+/media/sys17/Bhavan's_Journal/Vol_38/17/0072.JPG
+/media/sys17/Bhavan's_Journal/Vol_38/17/0074.JPG
 /media/sys17/Bhavan's_Journal/Vol_38/17/0076.JPG
 /media/sys17/Bhavan's_Journal/Vol_38/17/0078.JPG
 /media/sys17/Bhavan's_Journal/Vol_38/17/0097.JPG

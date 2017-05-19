@@ -94,6 +94,7 @@ file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0230.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0232.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0234.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0236.tif
+file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0238.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0240.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0244.tif
 file:///home/sys17/Desktop/BJ-tiff/Vol_15/01/0246.tif

@@ -65,6 +65,7 @@ Vol_41/01/0193.tif
 Vol_41/01/0194.tif
 Vol_41/02/0000b.tif
 Vol_41/02/0008.tif
+Vol_41/02/0004.tif
 Vol_41/02/0010.tif
 Vol_41/02/0012.tif
 Vol_41/02/0015.tif

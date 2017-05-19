@@ -375,6 +375,7 @@ Vol_44/14/0101.tif
 Vol_44/14/0102.tif
 Vol_44/15/0000b.tif
 Vol_44/15/0002.tif
+Vol_44/15/0004.tif
 Vol_44/15/0006.tif
 Vol_44/15/0008.tif
 Vol_44/15/0011.tif
